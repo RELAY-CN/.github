@@ -10,6 +10,9 @@ Tencent Group(QQ): 980562548
 Mail: dr@der.kim  
 ~~No Discord~~
 
+# Other
+[QuickLinkX](https://github.com/QuickLinkX)'s upstream team
+
 ---
 Sakura~  
 ~~Also the cutest~~
