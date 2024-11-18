@@ -1,5 +1,5 @@
 # RELAY-CN
-Welcome to RELAY-CN Group, a privately owned team whose mission is to provide gamers with fast, reliable, and smooth connections to ensure you have an unrivaled gaming experience.  
+Welcome to RELAY-CN Group, a Privately Owned Team whose mission is to provide gamers with fast, reliable, and smooth connections to ensure you have an unrivaled gaming experience.  
 
 + We are committed to exploring and applying cutting-edge technologies, promoting the practical application of new technologies and opening up more possibilities.  
 + At the same time, the team actively explores the application of new programming languages and algorithms, and continuously improves the technical architecture and service efficiency to ensure a continuously optimized experience for players.  
