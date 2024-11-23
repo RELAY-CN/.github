@@ -31,6 +31,10 @@ Mail: dr@der.kim
 ![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599c?logo=c&logoColor=white&style=for-the-badge)
 
+### LICENSE
+The use of this license is mandatory for all projects of the team, whether declared or not :
+[LICENSE.md](https://github.com/RELAY-CN/.github/blob/main/LICENSE.md)
+
 ---
 Sakura~  
 ~~Also the cutest~~
