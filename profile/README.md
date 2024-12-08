@@ -23,7 +23,7 @@ Mail: dr@der.kim
 | **RustedWarfare**  | **RELAY-CN SFE Docker Manager**         | Server management tool based on Docker technology for containerizing and managing Rusted Warfare game server instances |
 | **RustedWarfare**  | **IronCore** (New RW-HPS)               | Public game server for Rusted Warfare                                                              |
 | **RustedWarfare**  | **FakeListRoom**                        | Create fake rooms in the list                                                                     |
-| **RustedWarfare**  | **FakePlayer**                          | Create fake playeres in the room                                                                  |
+| **RustedWarfare**  | **FakePlayer**                          | Create fake players in the room                                                                  |
 | **Networking**     | **LANX**                                | Virtual LAN based on KCP+TAP+P2P/RELAY for Windows                                                 |
 
 > If you see the name, but can not find, then the project is internal private non-open source project
