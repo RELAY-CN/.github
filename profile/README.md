@@ -22,7 +22,7 @@ Mail: dr@der.kim
 | **RustedWarfare**  | **RELAY-CN Service API**                | Back-end API for the Rusted Warfare series                                                        |
 | **RustedWarfare**  | **RELAY-CN SFE Docker Manager**         | Server management tool based on Docker technology for containerizing and managing Rusted Warfare game server instances |
 | **RustedWarfare**  | **IronCore** (New RW-HPS)               | Public game server for Rusted Warfare                                                              |
-| **RustedWarfare**  | **FakeListRoom**                        | Create fake rooms in the list                                                                     |
+| **RustedWarfare**  | **FakeListRoom**                        | Create fake rooms in the list (等待修复 暂时隐藏)                                                    |
 | **RustedWarfare**  | **FakePlayer**                          | Create fake players in the room                                                                  |
 | **Networking**     | **LANX**                                | Virtual LAN based on KCP+TAP+P2P/RELAY for Windows                                                 |
 
