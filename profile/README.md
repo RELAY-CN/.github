@@ -5,8 +5,7 @@ Welcome to RELAY-CN Group, a Privately Owned Team whose mission is to provide ga
 + At the same time, the team actively explores the application of new programming languages and algorithms, and continuously improves the technical architecture and service efficiency to ensure a continuously optimized experience for players.  
 + We focus on the construction of the gaming ecosystem and provide impetus for the sustainable development of the ecosystem. In addition, we also actively participate in the construction of the underlying services, provide key support for various services, and promote the development of the ecosystem to a higher level.
 
-**CN : 请向开发者致以崇高的敬意, 没有他人的辛苦, 无现在的便利**  
-**EN : Please honor the developers, without the hard work of others, there would be no convenience**  
+**Please honor the developers, without the hard work of others, there would be no convenience**  
 
 # Contact Us
 Github: [Dr](https://github.com/deng-rui)    
