@@ -26,7 +26,8 @@ Mail: dr@der.kim
 | **RustedWarfare**  | **FakePlayer**                          | Create fake players in the room                                                                  |
 | **Networking**     | **LANX**                                | Virtual LAN based on KCP+TAP+P2P/RELAY for Windows                                                 |
 
-> If you see the name, but can not find, then the project is internal private non-open source project
+> If you see the name, but can not find, then the project is internal private non-open source project  
+> Some small items, or items we deem inappropriate, will not be written to this table.  
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ffb600?logo=java&logoColor=white&style=for-the-badge)
