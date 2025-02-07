@@ -9,7 +9,6 @@ Welcome to RELAY-CN Group, a Privately Owned Team whose mission is to provide ga
 
 # Contact Us
 Github: [Dr](https://github.com/deng-rui)    
-Tencent QQ Group: 417604368  
 Mail: dr@der.kim  
 
 # Other
