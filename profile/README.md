@@ -32,8 +32,10 @@ Mail: dr@der.kim
 ![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?logo=kotlin&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-68217a?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge)
+  
 ![PHP](https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599c?logo=c&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 
 ### LICENSE
 The use of this license is mandatory for all projects of the team, whether declared or not :
