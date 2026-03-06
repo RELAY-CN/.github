@@ -45,3 +45,4 @@ The use of this license is mandatory for all projects of the team, whether decla
 ---
 Sakura~  
 ~~Also the cutest~~
+~~开源不会有前途的~~
